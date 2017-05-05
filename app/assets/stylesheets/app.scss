@@ -1,0 +1,14 @@
+// Place all the styles related to the App controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.footer {
+	width: 100%;
+	background: #f8f8f8;
+	border: 1px solid #e7e7e7;
+	height: 4em;
+	text-align: center;
+	.container {
+		padding: 18px;
+	}
+}
